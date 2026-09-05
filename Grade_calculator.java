@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class grade_calculator{
+public class Grade_calculator{
     public static void main (String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of subjects: ");
